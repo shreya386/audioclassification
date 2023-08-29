@@ -1,0 +1,3 @@
+we have to create a system like which can generate audio waveform using 2 3 sentences  and then create a one audio waveform after that apply audio classification algorithm and evaluate. 
+then we have to generate to input audio same as previous one and we have to recognise the voice is same or not menas we have to recognise audio. 
+if we are in meeting room two or more people is talking then he can easilh identify your voice .
